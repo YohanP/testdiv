@@ -35,3 +35,5 @@ The default bucket is demo-templates which is publicly readable but you can easi
 ./build.py -n shared-demo-int -t integration build
 ./build.py -n demo-int -t integration build AppAMI=ami-xxxxx
 ```
+
+add without conflict

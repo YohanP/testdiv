@@ -1,4 +1,3 @@
-Gordon,Tucker,Pikkaog
 Caleb,Pearson,Uvibiwa
 Lilly,French,Zetodpap
 Jay,Lambert,Covuger
@@ -97,4 +96,3 @@ Harry,Burns,Sejewa
 Juan,Norton,Gulidir
 Lenora,Palmer,Rugsema
 Rhoda,Vasquez,Ziftuata
-Mary,Cummings,Ejgeclov
