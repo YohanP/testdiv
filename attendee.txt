@@ -1,6 +1,3 @@
-Caleb,Pearson,Uvibiwa
-Lilly,French,Zetodpap
-Jay,Lambert,Covuger
 Edgar,Floyd,Hofehlaw
 Maggie,Potter,Binpethas
 William,Frazier,Zajebo
@@ -25,10 +22,6 @@ Lizzie,Doyle,Iwmegciv
 Victor,Patterson,Sahisfej
 Martha,Campbell,Jacokjiw
 Ella,Ellis,Dajteosa
-Lucile,Bates,Rakawil
-Keith,Stephens,Vugivusa
-Pauline,Collins,Azovjil
-Vincent,Roy,Suavihe
 Marie,Boone,Ruwumadob
 Steve,Gardner,Pojzana
 Adelaide,McGuire,Cupaci
@@ -43,9 +36,6 @@ Minerva,Benson,Towvecizi
 Rosa,Burke,Ijegata
 Agnes,Gonzalez,Kuhipazi
 Dollie,Saunders,Vingokpo
-Eleanor,Joseph,Vivibi
-Chad,Rose,Pakovus
-Lora,King,Savora
 Fred,Ryan,Wancumod
 Marguerite,Brooks,Wiszivma
 Gary,Page,Awkivlas
